@@ -1,0 +1,22 @@
+{
+  "name": "cisco-password-decoder",
+  "version": "1.0.0",
+  "description": "Pure javascript decoder for Cisco VPN Client passwords.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/artemkin/cisco-password-decoder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemkin/cisco-password-decoder/issues"
+  },
+  "homepage": "https://github.com/artemkin/cisco-password-decoder#readme",
+  "dependencies": {
+    "node-forge": "^0.6.42"
+  }
+}
